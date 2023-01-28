@@ -29,8 +29,6 @@ open index.html in your local browser
 ## Authors
 👤 **Victor**
 
-- GitHub: [@VICTOR-CHUKWU](https://github.com/VICTOR-CHUKWU)
-- LinkedIn: [Victor-chukwu](https://www.linkedin.com/in/victor-chukwu-95a020143)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
@@ -41,5 +39,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- thanks to my microvers team mates
-
+Special thanks to
+- GitHub: [@VICTOR-CHUKWU](https://github.com/VICTOR-CHUKWU)
+- LinkedIn: [Victor-chukwu](https://www.linkedin.com/in/victor-chukwu-95a020143)
+for writing this code. This code was the project designed during the Microverse admission trial exam.
